@@ -6,6 +6,7 @@ softdepend:
 name: "DecentHolograms"
 description: ${description}
 version: ${version}
+folia-supported: true
 author: d0by
 
 #commands:
